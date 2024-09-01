@@ -12,7 +12,7 @@ Saat ini saya sedang mendalami pemrograman web yang menggunakan bahasa PHP
 
 ## 📫 Hubungi Saya
 - Email: wahyuwahidnugroho256@gmail.com
-- GitHub:[github.com/wahyu2021](https://github.com/wahyu2021) 
+- GitHub: [github.com/wahyu2021](https://github.com/wahyu2021) 
 
 ## ⚡ Fakta Menarik
 - suka bermain basket
