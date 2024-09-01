@@ -1,0 +1,17 @@
+{
+    "name": "belajar-php-composer-pzn/php-composer",
+    "description": "Belajar PHP Composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Wahyu2021",
+            "email": "wahyuwn256@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Wahyu\\" : "src/"
+        }}
+    ,
+    "require": {}
+}
